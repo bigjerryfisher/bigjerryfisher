@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+## 👤About Me
 
 I build AI systems that solve real problems — from waste segregation to gesture-controlled robotics — with a focus on impact in Africa and emerging markets.
 
