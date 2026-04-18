@@ -12,11 +12,12 @@
 
 I build AI systems that solve real problems — from waste segregation to gesture-controlled robotics — with a focus on impact in Africa and emerging markets.
 
-- 🔬 **Peer Reviewer** at Elsevier, Wiley, World Scientific & Inderscience — 10 reviews for *Expert Systems with Applications* · **Certificate of Reviewing**
+- 🏫 **Engineering Research Assistant & Lecturer** at Ghana Communication Technology University (GCTU) · Jan 2026–Present
+- 🔬 **Peer Reviewer** across 5 top-tier journals — Elsevier, Wiley, World Scientific, Inderscience & Emerald Publishing · 10 reviews for *Expert Systems with Applications* · **Certificate of Reviewing**
 - 🎓 **MathWorks Computer Vision Engineer** — 9-course professional certificate (Coursera, April 2026)
 - 🤝 **MathWorks UX Contributor** — Shaping Generative AI in MATLAB Help Center since 2021
-- 🛠️ **Embedded Systems** — Self-balancing bicopter, IoT automation, PID control, ESP32/Arduino
-- 📡 Currently building commercial IoT automation at **HIVE Consult** & **Edenway Foundation**
+- 💚 **IoT & Embedded Systems Engineer** at HIVE Consult & Edenway Foundation
+- 🛠️ Self-balancing bicopter, IoT automation, PID control, ESP32/Arduino
 
 ---
 
@@ -42,7 +43,7 @@ I build AI systems that solve real problems — from waste segregation to gestur
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-black?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Domains:** Computer Vision · Deep Learning · Embedded Systems · IoT · Peer Review · UAV/Drones
+**Domains:** Computer Vision · Deep Learning · Embedded Systems · IoT · Academic Peer Review · UAV/Drones
 
 ---
 
