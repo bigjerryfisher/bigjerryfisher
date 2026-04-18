@@ -2,8 +2,8 @@
 ### AI & IoT Solutions Engineer · Peer Reviewer · MathWorks Contributor
 📍 Accra, Ghana · Open to relocation globally
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jeremiahtetteh.github.io-00875a?style=flat-square&logo=github)](https://jeremiahtetteh.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeremiah--tetteh-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/jeremiah-tetteh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bigjerryfisher.github.io-00875a?style=flat-square&logo=github)](https://bigjerryfisher.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeremiah--tetteh-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jeremiah-t-a20116a1/)
 [![Email](https://img.shields.io/badge/Email-tettehjeremiah%40ymail.com-D14836?style=flat-square&logo=gmail)](mailto:tettehjeremiah@ymail.com)
 
 ---
